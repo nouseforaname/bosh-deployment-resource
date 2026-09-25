@@ -1,4 +1,25 @@
-# Changelog
+# Changes
+
+## [0.3.0](https://github.com/googleapis/google-cloud-go/compare/auth/oauth2adapt/v0.2.8...auth/oauth2adapt/v0.3.0) (2026-09-23)
+
+
+### Features
+
+* **all:** Update supported go versions ([#20520](https://github.com/googleapis/google-cloud-go/issues/20520)) ([90413d3](https://github.com/googleapis/google-cloud-go/commit/90413d3e9d381ef4b92e3c496d98b023c5b2d8cc))
+
+## [0.2.8](https://github.com/googleapis/google-cloud-go/compare/auth/oauth2adapt/v0.2.7...auth/oauth2adapt/v0.2.8) (2025-03-17)
+
+
+### Bug Fixes
+
+* **auth/oauth2adapt:** Update golang.org/x/net to 0.37.0 ([1144978](https://github.com/googleapis/google-cloud-go/commit/11449782c7fb4896bf8b8b9cde8e7441c84fb2fd))
+
+## [0.2.7](https://github.com/googleapis/google-cloud-go/compare/auth/oauth2adapt/v0.2.6...auth/oauth2adapt/v0.2.7) (2025-01-09)
+
+
+### Bug Fixes
+
+* **auth/oauth2adapt:** Update golang.org/x/net to v0.33.0 ([e9b0b69](https://github.com/googleapis/google-cloud-go/commit/e9b0b69644ea5b276cacff0a707e8a5e87efafc9))
 
 ## [0.2.6](https://github.com/googleapis/google-cloud-go/compare/auth/oauth2adapt/v0.2.5...auth/oauth2adapt/v0.2.6) (2024-11-21)
 
